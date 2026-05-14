@@ -1,20 +1,15 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🌍 Sarzamin.tj
+**Sarzamin** — ин замимаи интерактивист, ки дар бораи ҷуғрофия, шаҳрҳо, ноҳияҳо ва мероси фарҳангии Тоҷикистон маълумот медиҳад.
 
-# Run and deploy your Sarzamin.tj app
+## ✨ Хусусиятҳо
+* 🗺️ Харитаи интерактивии минтақаҳои Тоҷикистон.
+* 📚 Маълумоти муфассал дар бораи таърих ва фарҳанг.
+* 🖼️ Дизайни муосир бо услуби Glassmorphism.
+* 📱 Намуди мутобиқшаванда (Responsive design).
 
-This contains everything you need to run your app locally.
+## 🚀 Тарзи иҷро (Local Start)
+Барои дар компютери худ иҷро кардани лоиҳа:
 
-View your app on sarzamin.tj: https://sarzamin.tj
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set required environment variables in [.env.local](.env.local)
-3. Run the app:
-   `npm run dev`
+1. Китобхонаҳоро насб кунед:
+   ```bash
+   npm install
