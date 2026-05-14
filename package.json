@@ -3,13 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "eslint .",
-    "clean": "next clean"
-  },
-  "dependencies": {
+  "dev": "next dev",
+  "build": "unset NODE_OPTIONS && next build",
+  "start": "next start",
+  "lint": "next lint"
+},
+ "dependencies": {
     "@hookform/resolvers": "^5.2.1",
     "autoprefixer": "^10.4.21",
     "class-variance-authority": "^0.7.1",
